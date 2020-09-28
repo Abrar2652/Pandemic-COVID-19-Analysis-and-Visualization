@@ -1,3 +1,3 @@
 # Pandemic-COVID-19-Analysis-and-Visualization
-The full research included file is Pandemic-COVID-19-Analysis-and-Visualization.pdf.
-Other 3 files are the components of this pdf file.
+
+This whole analysis and visualization has been done with Python. Libraries useed plotly, matplotlib,numpy, pandas, calmap, seaborn.
